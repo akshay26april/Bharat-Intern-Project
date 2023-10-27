@@ -1,4 +1,4 @@
-<h1>JavaScript Calculator</h1>: This is a level 1 heading that provides the title "JavaScript Calculator" for your calculator application.
+(<h1>JavaScript Calculator</h1>): This is a level 1 heading that provides the title "JavaScript Calculator" for your calculator application.
 
 <p class="warning">Don't divide by zero</p>: This is a paragraph element with a class "warning" that displays the warning message "Don't divide by zero." This message is meant to caution users about dividing by zero, which is mathematically undefined.
 
